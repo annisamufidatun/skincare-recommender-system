@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![skincare(s)](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_avif,q_auto:eco,dpr_2/rockcms/2024-01/240117-staff-skin-care-routines-social-2c85d8.jpg)
+
 This project aims to develop a skincare product recommender system using both content-based filtering and collaborative filtering approaches. The importance of this project lies in the growing skincare industry and the need for personalized product recommendations to help consumers navigate the vast array of available products.
 
 The global skincare market has seen significant growth, with its value projected to reach $189.3 billion by 2025 [1]. This rapid expansion has led to an overwhelming variety of products, making it challenging for consumers to find suitable options for their specific needs. Recommender systems have emerged as a crucial tool in e-commerce, with studies showing they can significantly increase sales and customer satisfaction [2].
